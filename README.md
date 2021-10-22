@@ -31,3 +31,5 @@ Recommended Hashtags :
 
 Drawback : 
 Metadata is required to process new forms of images
+
+References : https://github.com/AlecMorgan/Automatic-Image-Tagger
