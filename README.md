@@ -32,4 +32,4 @@ Recommended Hashtags :
 Drawback : 
 Metadata is required to process new forms of images
 
-References : https://github.com/AlecMorgan/Automatic-Image-Tagger
+References : https://github.com/AlecMorgan/Automatic-Image-Tagger ( The following code didn't work for me well enough, so had to alter it accordingly )
